@@ -2129,7 +2129,7 @@
 
     <NamedIndividual rdf:about="&COD_Ontology;Theoretical_Mass_Higgs_Boson">
         <rdf:type rdf:resource="&COD_Ontology;Theoretical_Mass"/>
-        <COD_Ontology:has_Theoretical_Value rdf:datatype="&xsd;integer">125.3</COD_Ontology:has_Theoretical_Value>
+        <COD_Ontology:has_Theoretical_Value rdf:datatype="&xsd;double">125.3</COD_Ontology:has_Theoretical_Value>
         <sameAs rdf:resource="&COD_Ontology;Theoretical_Mass_W_minus"/>
         <sameAs rdf:resource="&COD_Ontology;Theoretical_Mass_W_plus"/>
         <sameAs rdf:resource="&COD_Ontology;Theoretical_Mass_Z"/>
